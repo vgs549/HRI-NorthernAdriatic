@@ -1,0 +1,5 @@
+                  Df Sum Sq Mean Sq F value Pr(>F)  
+dominant_cluster   3  0.307 0.10221   3.159  0.027 *
+Residuals        128  4.142 0.03236                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

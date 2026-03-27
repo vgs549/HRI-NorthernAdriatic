@@ -1,0 +1,7 @@
+"scenario","component","F_value","p_value","eta_sq"
+"Amenity","Hazard",1.476,0.224955320339732,0.038
+"Amenity","Exposure",0.625,0.60027386045581,0.016
+"Amenity","Vulnerability",5.92,0.000867659499742256,0.136
+"Amenity","HxE_product",0.552,0.647559838023323,0.014
+"Amenity","HRI_no_vuln",0.418,0.74039723337623,0.011
+"Amenity","Full_HRI_std",1.175,0.322451232336762,0.03

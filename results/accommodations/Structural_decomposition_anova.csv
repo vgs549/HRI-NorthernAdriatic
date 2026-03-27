@@ -1,0 +1,7 @@
+"scenario","component","F_value","p_value","eta_sq"
+"Structural","Hazard",10.333,8.26492881656434e-05,0.17
+"Structural","Exposure",1.679,0.191705633010386,0.032
+"Structural","Vulnerability",4.527,0.0131004008507852,0.082
+"Structural","HxE_product",7.489,0.000927404111627969,0.129
+"Structural","HRI_no_vuln",7.012,0.00140748030670235,0.122
+"Structural","Full_HRI_std",9.084,0.000235517997400857,0.152

@@ -1,0 +1,5 @@
+"sector","flooded_50m","n","mean_hri","median_hri","sd_hri","mean_hazard","mean_phys_exp","mean_exposure","mean_vuln"
+"Accommodations",FALSE,863,0.3229,0.315,0.1052,0.5625,0.6918,0.6951,0.1331
+"Accommodations",TRUE,504,0.3681,0.3605,0.1084,0.5595,0.7746,0.821,0.1264
+"Services",FALSE,1117,0.4081,0.4046,0.1391,0.5848,0.6929,0.6924,0.1506
+"Services",TRUE,317,0.4449,0.4114,0.1457,0.5432,0.7811,0.8312,0.1348

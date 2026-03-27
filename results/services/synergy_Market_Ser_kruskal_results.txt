@@ -1,0 +1,6 @@
+
+	Kruskal-Wallis rank sum test
+
+data:  standardized_hri by dominant_cluster
+Kruskal-Wallis chi-squared = 9.148, df = 3, p-value = 0.02739
+

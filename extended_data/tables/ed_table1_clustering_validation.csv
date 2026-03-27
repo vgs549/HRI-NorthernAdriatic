@@ -1,0 +1,7 @@
+Sector,Scenario,PC,CE,XB,F1_min,F1_max
+Accommodation,Amenity,0.592,0.782,0.832,0.566,0.868
+Accommodation,Market/Short-Term,0.695,0.543,0.743,0.89,0.942
+Accommodation,Structural,0.686,0.545,1.0,0.703,0.948
+Service,Amenity,0.516,0.98,0.662,0.533,0.819
+Service,Market,0.705,0.566,0.631,0.977,0.998
+Service,Structural,0.734,0.514,0.453,0.963,0.981

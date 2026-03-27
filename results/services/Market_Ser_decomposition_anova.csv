@@ -1,0 +1,7 @@
+"scenario","component","F_value","p_value","eta_sq"
+"Market_Ser","Hazard",5.035,0.00248397033069414,0.106
+"Market_Ser","Exposure",1.493,0.219680852137523,0.034
+"Market_Ser","Vulnerability",2.181,0.0934367481052792,0.049
+"Market_Ser","HxE_product",3.425,0.0192397057542078,0.074
+"Market_Ser","HRI_no_vuln",3.151,0.0272837334226008,0.069
+"Market_Ser","Full_HRI_std",3.159,0.027023109880858,0.069

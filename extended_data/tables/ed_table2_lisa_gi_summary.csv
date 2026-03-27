@@ -1,0 +1,7 @@
+Sector,Scenario,Cells,LISA_sig,LISA_sig_pct,Clusters,Outliers,Gi_hotspots,Gi_coldspots,Max_Gi
+Acc,Amenity,117,23,19.7%,19,4,17,6,3.79
+Acc,Market,93,29,31.2%,23,6,14,15,3.15
+Acc,Structural,104,44,42.3%,34,10,23,21,3.38
+Ser,Amenity,70,40,57.1%,35,5,23,17,4.44
+Ser,Market,132,64,48.5%,52,12,31,33,3.93
+Ser,Structural,130,62,47.7%,52,10,37,25,5.01

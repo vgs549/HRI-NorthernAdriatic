@@ -1,0 +1,7 @@
+"scenario","component","F_value","p_value","eta_sq"
+"ShortTerm","Hazard",2.337,0.102455436353913,0.049
+"ShortTerm","Exposure",1.855,0.162402217344899,0.04
+"ShortTerm","Vulnerability",20.471,4.70322659400926e-08,0.313
+"ShortTerm","HxE_product",0.763,0.469186700676788,0.017
+"ShortTerm","HRI_no_vuln",0.618,0.541392923237248,0.014
+"ShortTerm","Full_HRI_std",2.574,0.0818498868391831,0.054
